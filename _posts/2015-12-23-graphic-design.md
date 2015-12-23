@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T02:03:45.643Z'
-dateModified: '2015-12-23T02:03:32.716Z'
+datePublished: '2015-12-23T02:08:32.005Z'
+dateModified: '2015-12-23T02:05:13.028Z'
 title: Graphic Design
 author: []
 authors: []
@@ -23,3 +23,4 @@ _type: Article
 
 ---
 Test test test
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/315b625e-ab15-440d-aebd-406e7a9516db.jpg)
