@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.flickr.com/photos/adamjchan/8513699586/'
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-24T20:38:04.402Z'
-dateModified: '2015-12-24T20:26:30.512Z'
+datePublished: '2015-12-24T20:39:04.586Z'
+dateModified: '2015-12-24T20:38:58.003Z'
 author:
   - name: Adam J Chan
     url: 'https://www.flickr.com/photos/adamjchan/'
@@ -28,6 +27,7 @@ publisher:
   domain: www.flickr.com
   url: 'https://www.flickr.com/'
   favicon: 'https://www.flickr.com/favicon.ico'
+url: bokeh-downtown-vancouver-adam-j-chan/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
