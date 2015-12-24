@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.flickr.com/photos/adamjchan/8513699586/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-24T20:20:55.493Z'
-dateModified: '2015-12-24T20:14:26.673Z'
+datePublished: '2015-12-24T20:38:04.402Z'
+dateModified: '2015-12-24T20:26:30.512Z'
 author:
   - name: Adam J Chan
     url: 'https://www.flickr.com/photos/adamjchan/'
