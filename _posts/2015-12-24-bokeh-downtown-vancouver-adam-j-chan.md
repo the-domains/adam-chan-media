@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T20:39:04.586Z'
-dateModified: '2015-12-24T20:38:58.003Z'
+datePublished: '2015-12-24T20:58:56.323Z'
+dateModified: '2015-12-24T20:58:51.387Z'
 author:
   - name: Adam J Chan
     url: 'https://www.flickr.com/photos/adamjchan/'
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 # Bokeh - Downtown Vancouver - Adam J Chan
 ![Bokeh - Downtown Vancouver - Adam J Chan](https://farm9.staticflickr.com/8086/8513699586_4762f1f887_b.jpg)
 
-# Walking on my way to Gastown and all you see is the bright colorful city lights. Taken on a crisp, cool, clear night on Seymour Street in downtown Vancouver.
+Walking on my way to Gastown and all you see is the bright colorful city lights. Taken on a crisp, cool, clear night on Seymour Street in downtown Vancouver.
 
 ## 
 
