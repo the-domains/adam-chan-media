@@ -1,7 +1,7 @@
 name: Adam Chan Media
 favicon: null
-layout_spectrum: 0.7109471266157925
-typography_spectrum: 0.1435014856979251
+layout_spectrum: 1
+typography_spectrum: 0.76667
 title: Portfolio of Adam Chan
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.25773634924553335
-  lightness: 0.6537050236947834
-  saturation: 0.16452691261656582
-  rhythmicContrast: 0.4610471432097256
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
