@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Portfolio of Adam Chan]]></title>
         <description><![CDATA[Portfolio of Adam Chan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adam-chan-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 20:09:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 20:09:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adam-chan-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bokeh - Downtown Vancouver - Adam J Chan]]></title>
+            <description><![CDATA[<article><h1>Bokeh - Downtown Vancouver - Adam J Chan</h1><img src="https://farm9.staticflickr.com/8086/8513699586_4762f1f887_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/adamjchan/8513699586/</link>
+            <guid isPermaLink="false">ea40ebd4-d744-4056-acd7-c095f5b07658</guid>
+            <pubDate>Thu, 24 Dec 2015 20:09:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ramen Isshin Media Event Menu</p>]]></description>
-            <link>undefined4d686385-14b6-4d1d-8804-c4ed4286161d/index.html</link>
+            <link>https://thegrid.ai/adam-chan-media/4d686385-14b6-4d1d-8804-c4ed4286161d/index.html</link>
             <guid isPermaLink="false">4d686385-14b6-4d1d-8804-c4ed4286161d</guid>
             <pubDate>Thu, 24 Dec 2015 20:09:08 GMT</pubDate>
         </item>
